@@ -6,7 +6,7 @@ const result = add(2,3);
 console.log(result); // 5
 
 
-
+// sum of numbers from 1 to n
 function sum(num){
     let total = 0;
     for(let i=1; i<=num; i++){
